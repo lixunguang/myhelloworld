@@ -1,0 +1,197 @@
+﻿生成启动时间为 2016/11/22 17:11:27。
+     1>项目“E:\workspace\QtitanRibbon3.2.5_msvc2012_source\installpack001p\src\shared\ribbon\qtnribbon.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Moc'ing QtnCommonStyle.h...
+         Moc'ing QtnOfficeFrameHelper_win.h...
+         Moc'ing QtnOfficePopupColorButton.h...
+         Moc'ing QtnOfficePopupMenu.h...
+         Moc'ing QtnOfficePopupWindow.h...
+         Moc'ing QtnOfficeStyle.h...
+         Moc'ing QtnOfficeStylePrivate.h...
+         Moc'ing QtnPopupHelpers.h...
+         Moc'ing QtnRibbonBackstageView.h...
+         Moc'ing QtnRibbonBackstageViewPrivate.h...
+         Moc'ing QtnRibbonBar.h...
+         Moc'ing QtnRibbonBarPrivate.h...
+         Moc'ing QtnRibbonButton.h...
+         Moc'ing QtnRibbonGallery.h...
+         Moc'ing QtnRibbonGalleryPrivate.h...
+         Moc'ing QtnRibbonGroup.h...
+         Moc'ing QtnRibbonGroupLayout.h...
+         Moc'ing QtnRibbonGroupPrivate.h...
+         Moc'ing QtnRibbonMainWindow.h...
+         Moc'ing QtnRibbonPage.h...
+         Moc'ing QtnRibbonPrivate.h...
+         Moc'ing QtnRibbonQuickAccessBar.h...
+         Moc'ing QtnRibbonSliderPane.h...
+         Moc'ing QtnRibbonStatusBar.h...
+         Moc'ing QtnRibbonStyle.h...
+         Moc'ing QtnRibbonStylePrivate.h...
+         Moc'ing QtnRibbonSystemPopupBar.h...
+         Moc'ing QtnRibbonTabBar.h...
+         Moc'ing QtnRibbonToolTip.h...
+         Rcc'ing ..\..\ribbon\QtnRibbonResources.qrc...
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_QtnCommonStyle.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_QtnCommonStyle.cpp, Release\moc_QtnCommonStyle.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_QtnOfficeFrameHelper_win.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_QtnOfficeFrameHelper_win.cpp, Release\moc_QtnOfficeFrameHelper_win.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_QtnOfficePopupColorButton.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_QtnOfficePopupColorButton.cpp, Release\moc_QtnOfficePopupColorButton.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_QtnOfficePopupMenu.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_QtnOfficePopupMenu.cpp, Release\moc_QtnOfficePopupMenu.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_QtnOfficePopupWindow.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_QtnOfficePopupWindow.cpp, Release\moc_QtnOfficePopupWindow.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_QtnOfficeStyle.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_QtnOfficeStyle.cpp, Release\moc_QtnOfficeStyle.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_QtnOfficeStylePrivate.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_QtnOfficeStylePrivate.cpp, Release\moc_QtnOfficeStylePrivate.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_QtnPopupHelpers.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_QtnPopupHelpers.cpp, Release\moc_QtnPopupHelpers.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_QtnRibbonBackstageView.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_QtnRibbonBackstageView.cpp, Release\moc_QtnRibbonBackstageView.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_QtnRibbonBackstageViewPrivate.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_QtnRibbonBackstageViewPrivate.cpp, Release\moc_QtnRibbonBackstageViewPrivate.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_QtnRibbonBar.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_QtnRibbonBar.cpp, Release\moc_QtnRibbonBar.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_QtnRibbonBarPrivate.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_QtnRibbonBarPrivate.cpp, Release\moc_QtnRibbonBarPrivate.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_QtnRibbonButton.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_QtnRibbonButton.cpp, Release\moc_QtnRibbonButton.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_QtnRibbonGallery.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_QtnRibbonGallery.cpp, Release\moc_QtnRibbonGallery.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_QtnRibbonGalleryPrivate.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_QtnRibbonGalleryPrivate.cpp, Release\moc_QtnRibbonGalleryPrivate.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_QtnRibbonGroup.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_QtnRibbonGroup.cpp, Release\moc_QtnRibbonGroup.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_QtnRibbonGroupLayout.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_QtnRibbonGroupLayout.cpp, Release\moc_QtnRibbonGroupLayout.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_QtnRibbonGroupPrivate.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_QtnRibbonGroupPrivate.cpp, Release\moc_QtnRibbonGroupPrivate.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_QtnRibbonMainWindow.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_QtnRibbonMainWindow.cpp, Release\moc_QtnRibbonMainWindow.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_QtnRibbonPage.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_QtnRibbonPage.cpp, Release\moc_QtnRibbonPage.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_QtnRibbonPrivate.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_QtnRibbonPrivate.cpp, Release\moc_QtnRibbonPrivate.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_QtnRibbonQuickAccessBar.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_QtnRibbonQuickAccessBar.cpp, Release\moc_QtnRibbonQuickAccessBar.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_QtnRibbonSliderPane.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_QtnRibbonSliderPane.cpp, Release\moc_QtnRibbonSliderPane.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_QtnRibbonStatusBar.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_QtnRibbonStatusBar.cpp, Release\moc_QtnRibbonStatusBar.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_QtnRibbonStyle.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_QtnRibbonStyle.cpp, Release\moc_QtnRibbonStyle.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_QtnRibbonStylePrivate.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_QtnRibbonStylePrivate.cpp, Release\moc_QtnRibbonStylePrivate.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_QtnRibbonSystemPopupBar.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_QtnRibbonSystemPopupBar.cpp, Release\moc_QtnRibbonSystemPopupBar.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_QtnRibbonTabBar.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_QtnRibbonTabBar.cpp, Release\moc_QtnRibbonTabBar.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_QtnRibbonToolTip.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Debug\moc_QtnRibbonToolTip.cpp, Release\moc_QtnRibbonToolTip.cpp.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I. /I..\..\..\include /I..\..\..\include /IC:\Qt\Qt5.5\5.5\msvc2013_64\include\QtWidgets\5.5.1 /IC:\Qt\Qt5.5\5.5\msvc2013_64\include\QtWidgets\5.5.1\QtWidgets /IC:\Qt\Qt5.5\5.5\msvc2013_64\include /IC:\Qt\Qt5.5\5.5\msvc2013_64\include\QtWidgets /IC:\Qt\Qt5.5\5.5\msvc2013_64\include\QtGui\5.5.1 /IC:\Qt\Qt5.5\5.5\msvc2013_64\include\QtGui\5.5.1\QtGui /IC:\Qt\Qt5.5\5.5\msvc2013_64\include\QtGui /IC:\Qt\Qt5.5\5.5\msvc2013_64\include\QtANGLE /IC:\Qt\Qt5.5\5.5\msvc2013_64\include\QtCore\5.5.1 /IC:\Qt\Qt5.5\5.5\msvc2013_64\include\QtCore\5.5.1\QtCore /IC:\Qt\Qt5.5\5.5\msvc2013_64\include\QtCore /Idebug /I"C:\Qt\Qt5.5\5.5\msvc2013_64\mkspecs\win32-msvc2013" /Zi /nologo /W3 /WX- /Od /D _WINDOWS /D UNICODE /D WIN32 /D WIN64 /D _WINDOWS /D QTITAN_LIBRARY /D QT_WIDGETS_LIB /D QT_GUI_LIB /D QT_CORE_LIB /D _WINDLL /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt -w34100 -w34189 -w44996 ..\..\styles\QtnCommonPaintManager.cpp ..\..\styles\QtnCommonStyle.cpp ..\..\styles\QtnCommonStyle_win.cpp ..\..\ribbon\QtnOfficeFrameHelper_win.cpp ..\..\styles\QtnOfficePaintManager.cpp ..\..\ribbon\QtnOfficePopupColorButton.cpp ..\..\ribbon\QtnOfficePopupMenu.cpp ..\..\ribbon\QtnOfficePopupWindow.cpp ..\..\styles\QtnOfficeStyle.cpp ..\..\styles\QtnPopupHelpers.cpp ..\..\ribbon\QtnRibbonBackstageView.cpp ..\..\ribbon\QtnRibbonBar.cpp ..\..\ribbon\QtnRibbonButton.cpp ..\..\ribbon\QtnRibbonGallery.cpp ..\..\ribbon\QtnRibbonGroup.cpp ..\..\ribbon\QtnRibbonGroupLayout.cpp ..\..\ribbon\QtnRibbonMainWindow.cpp ..\..\ribbon\QtnRibbonPage.cpp ..\..\styles\QtnRibbonPaintManager.cpp ..\..\ribbon\QtnRibbonPrivate.cpp ..\..\ribbon\QtnRibbonQuickAccessBar.cpp ..\..\ribbon\QtnRibbonSliderPane.cpp ..\..\ribbon\QtnRibbonStatusBar.cpp ..\..\styles\QtnRibbonStyle.cpp ..\..\ribbon\QtnRibbonSystemPopupBar.cpp ..\..\ribbon\QtnRibbonTabBar.cpp ..\..\ribbon\QtnRibbonToolTip.cpp ..\..\styles\QtnStyleHelpers.cpp Debug\moc_QtnCommonStyle.cpp Debug\moc_QtnOfficeFrameHelper_win.cpp Debug\moc_QtnOfficePopupColorButton.cpp Debug\moc_QtnOfficePopupMenu.cpp Debug\moc_QtnOfficePopupWindow.cpp Debug\moc_QtnOfficeStyle.cpp Debug\moc_QtnOfficeStylePrivate.cpp Debug\moc_QtnPopupHelpers.cpp Debug\moc_QtnRibbonBackstageView.cpp Debug\moc_QtnRibbonBackstageViewPrivate.cpp Debug\moc_QtnRibbonBar.cpp Debug\moc_QtnRibbonBarPrivate.cpp Debug\moc_QtnRibbonButton.cpp Debug\moc_QtnRibbonGallery.cpp Debug\moc_QtnRibbonGalleryPrivate.cpp Debug\moc_QtnRibbonGroup.cpp Debug\moc_QtnRibbonGroupLayout.cpp Debug\moc_QtnRibbonGroupPrivate.cpp Debug\moc_QtnRibbonMainWindow.cpp Debug\moc_QtnRibbonPage.cpp Debug\moc_QtnRibbonPrivate.cpp Debug\moc_QtnRibbonQuickAccessBar.cpp Debug\moc_QtnRibbonSliderPane.cpp Debug\moc_QtnRibbonStatusBar.cpp Debug\moc_QtnRibbonStyle.cpp Debug\moc_QtnRibbonStylePrivate.cpp Debug\moc_QtnRibbonSystemPopupBar.cpp Debug\moc_QtnRibbonTabBar.cpp Debug\moc_QtnRibbonToolTip.cpp
+         QtnCommonPaintManager.cpp
+         QtnCommonStyle.cpp
+         QtnCommonStyle_win.cpp
+         QtnOfficeFrameHelper_win.cpp
+         QtnOfficePaintManager.cpp
+         QtnOfficePopupColorButton.cpp
+         QtnOfficePopupMenu.cpp
+         QtnOfficePopupWindow.cpp
+         QtnOfficeStyle.cpp
+         QtnPopupHelpers.cpp
+         QtnRibbonBackstageView.cpp
+         QtnRibbonBar.cpp
+         QtnRibbonButton.cpp
+         QtnRibbonGallery.cpp
+         QtnRibbonGroup.cpp
+         QtnRibbonGroupLayout.cpp
+         QtnRibbonMainWindow.cpp
+         QtnRibbonPage.cpp
+         QtnRibbonPaintManager.cpp
+         QtnRibbonPrivate.cpp
+         正在生成代码...
+         正在编译...
+         QtnRibbonQuickAccessBar.cpp
+         QtnRibbonSliderPane.cpp
+         QtnRibbonStatusBar.cpp
+         QtnRibbonStyle.cpp
+         QtnRibbonSystemPopupBar.cpp
+         QtnRibbonTabBar.cpp
+         QtnRibbonToolTip.cpp
+         QtnStyleHelpers.cpp
+         moc_QtnCommonStyle.cpp
+         moc_QtnOfficeFrameHelper_win.cpp
+         moc_QtnOfficePopupColorButton.cpp
+         moc_QtnOfficePopupMenu.cpp
+         moc_QtnOfficePopupWindow.cpp
+         moc_QtnOfficeStyle.cpp
+         moc_QtnOfficeStylePrivate.cpp
+         moc_QtnPopupHelpers.cpp
+         moc_QtnRibbonBackstageView.cpp
+         moc_QtnRibbonBackstageViewPrivate.cpp
+         moc_QtnRibbonBar.cpp
+         moc_QtnRibbonBarPrivate.cpp
+         正在生成代码...
+         正在编译...
+         moc_QtnRibbonButton.cpp
+         moc_QtnRibbonGallery.cpp
+         moc_QtnRibbonGalleryPrivate.cpp
+         moc_QtnRibbonGroup.cpp
+         moc_QtnRibbonGroupLayout.cpp
+         moc_QtnRibbonGroupPrivate.cpp
+         moc_QtnRibbonMainWindow.cpp
+         moc_QtnRibbonPage.cpp
+         moc_QtnRibbonPrivate.cpp
+         moc_QtnRibbonQuickAccessBar.cpp
+         moc_QtnRibbonSliderPane.cpp
+         moc_QtnRibbonStatusBar.cpp
+         moc_QtnRibbonStyle.cpp
+         moc_QtnRibbonStylePrivate.cpp
+         moc_QtnRibbonSystemPopupBar.cpp
+         moc_QtnRibbonTabBar.cpp
+         moc_QtnRibbonToolTip.cpp
+         正在生成代码...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I. /I..\..\..\include /I..\..\..\include /IC:\Qt\Qt5.5\5.5\msvc2013_64\include\QtWidgets\5.5.1 /IC:\Qt\Qt5.5\5.5\msvc2013_64\include\QtWidgets\5.5.1\QtWidgets /IC:\Qt\Qt5.5\5.5\msvc2013_64\include /IC:\Qt\Qt5.5\5.5\msvc2013_64\include\QtWidgets /IC:\Qt\Qt5.5\5.5\msvc2013_64\include\QtGui\5.5.1 /IC:\Qt\Qt5.5\5.5\msvc2013_64\include\QtGui\5.5.1\QtGui /IC:\Qt\Qt5.5\5.5\msvc2013_64\include\QtGui /IC:\Qt\Qt5.5\5.5\msvc2013_64\include\QtANGLE /IC:\Qt\Qt5.5\5.5\msvc2013_64\include\QtCore\5.5.1 /IC:\Qt\Qt5.5\5.5\msvc2013_64\include\QtCore\5.5.1\QtCore /IC:\Qt\Qt5.5\5.5\msvc2013_64\include\QtCore /Idebug /I"C:\Qt\Qt5.5\5.5\msvc2013_64\mkspecs\win32-msvc2013" /Zi /nologo /W3 /WX- /Od /D _WINDOWS /D UNICODE /D WIN32 /D WIN64 /D _WINDOWS /D QTITAN_LIBRARY /D QT_WIDGETS_LIB /D QT_GUI_LIB /D QT_CORE_LIB /D _WINDLL /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt -w34100 -w34189 -w44996 GeneratedFiles\qrc_QtnRibbonResources.cpp
+         qrc_QtnRibbonResources.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _WINDOWS /D UNICODE /D WIN32 /D WIN64 /D _WINDOWS /D QTITAN_LIBRARY /D QT_WIDGETS_LIB /D QT_GUI_LIB /D QT_CORE_LIB /D _DEBUG /l"0x0409" /nologo /fo"x64\Debug\qtnribbond_resource.res" E:\workspace\QtitanRibbon3.2.5_msvc2012_source\installpack001p\src\shared\ribbon\qtnribbond_resource.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"..\..\..\bin\\qtnribbond3.dll" /VERSION:"3.2" /NOLOGO /LIBPATH:C:\Qt\Qt5.5\5.5\msvc2013_64\lib /LIBPATH:C:\Qt\Qt5.5\5.5\msvc2013_64\lib user32.lib gdi32.lib shell32.lib comctl32.lib C:\Qt\Qt5.5\5.5\msvc2013_64\lib\Qt5Widgetsd.lib C:\Qt\Qt5.5\5.5\msvc2013_64\lib\Qt5Guid.lib C:\Qt\Qt5.5\5.5\msvc2013_64\lib\Qt5Cored.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"..\..\..\bin\qtnribbond3.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /MACHINE:X64 /DLL x64\Debug\qtnribbond_resource.res
+         x64\Debug\QtnCommonPaintManager.obj
+         x64\Debug\QtnCommonStyle.obj
+         x64\Debug\QtnCommonStyle_win.obj
+         x64\Debug\QtnOfficeFrameHelper_win.obj
+         x64\Debug\QtnOfficePaintManager.obj
+         x64\Debug\QtnOfficePopupColorButton.obj
+         x64\Debug\QtnOfficePopupMenu.obj
+         x64\Debug\QtnOfficePopupWindow.obj
+         x64\Debug\QtnOfficeStyle.obj
+         x64\Debug\QtnPopupHelpers.obj
+         x64\Debug\QtnRibbonBackstageView.obj
+         x64\Debug\QtnRibbonBar.obj
+         x64\Debug\QtnRibbonButton.obj
+         x64\Debug\QtnRibbonGallery.obj
+         x64\Debug\QtnRibbonGroup.obj
+         x64\Debug\QtnRibbonGroupLayout.obj
+         x64\Debug\QtnRibbonMainWindow.obj
+         x64\Debug\QtnRibbonPage.obj
+         x64\Debug\QtnRibbonPaintManager.obj
+         x64\Debug\QtnRibbonPrivate.obj
+         x64\Debug\QtnRibbonQuickAccessBar.obj
+         x64\Debug\QtnRibbonSliderPane.obj
+         x64\Debug\QtnRibbonStatusBar.obj
+         x64\Debug\QtnRibbonStyle.obj
+         x64\Debug\QtnRibbonSystemPopupBar.obj
+         x64\Debug\QtnRibbonTabBar.obj
+         x64\Debug\QtnRibbonToolTip.obj
+         x64\Debug\QtnStyleHelpers.obj
+         x64\Debug\moc_QtnCommonStyle.obj
+         x64\Debug\moc_QtnOfficeFrameHelper_win.obj
+         x64\Debug\moc_QtnOfficePopupColorButton.obj
+         x64\Debug\moc_QtnOfficePopupMenu.obj
+         x64\Debug\moc_QtnOfficePopupWindow.obj
+         x64\Debug\moc_QtnOfficeStyle.obj
+         x64\Debug\moc_QtnOfficeStylePrivate.obj
+         x64\Debug\moc_QtnPopupHelpers.obj
+         x64\Debug\moc_QtnRibbonBackstageView.obj
+         x64\Debug\moc_QtnRibbonBackstageViewPrivate.obj
+         x64\Debug\moc_QtnRibbonBar.obj
+         x64\Debug\moc_QtnRibbonBarPrivate.obj
+         x64\Debug\moc_QtnRibbonButton.obj
+         x64\Debug\moc_QtnRibbonGallery.obj
+         x64\Debug\moc_QtnRibbonGalleryPrivate.obj
+         x64\Debug\moc_QtnRibbonGroup.obj
+         x64\Debug\moc_QtnRibbonGroupLayout.obj
+         x64\Debug\moc_QtnRibbonGroupPrivate.obj
+         x64\Debug\moc_QtnRibbonMainWindow.obj
+         x64\Debug\moc_QtnRibbonPage.obj
+         x64\Debug\moc_QtnRibbonPrivate.obj
+         x64\Debug\moc_QtnRibbonQuickAccessBar.obj
+         x64\Debug\moc_QtnRibbonSliderPane.obj
+         x64\Debug\moc_QtnRibbonStatusBar.obj
+         x64\Debug\moc_QtnRibbonStyle.obj
+         x64\Debug\moc_QtnRibbonStylePrivate.obj
+         x64\Debug\moc_QtnRibbonSystemPopupBar.obj
+         x64\Debug\moc_QtnRibbonTabBar.obj
+         x64\Debug\moc_QtnRibbonToolTip.obj
+         x64\Debug\qrc_QtnRibbonResources.obj
+            正在创建库 ..\..\..\bin\\qtnribbond3.lib 和对象 ..\..\..\bin\\qtnribbond3.exp
+         qtnribbon.vcxproj -> E:\workspace\QtitanRibbon3.2.5_msvc2012_source\installpack001p\src\shared\ribbon\..\..\..\bin\qtnribbond3.dll
+     1>已完成生成项目“E:\workspace\QtitanRibbon3.2.5_msvc2012_source\installpack001p\src\shared\ribbon\qtnribbon.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:39.47

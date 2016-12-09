@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en_US" lang="en_US">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- quickstartguide.qdoc -->
+  <title>Qt QtitanRibbon 3.2: QtitanRibbon quick start guide</title>
+  <link rel="stylesheet" type="text/css" href="style/style.css" />
+  <script src="scripts/jquery.js" type="text/javascript"></script>
+  <script src="scripts/functions.js" type="text/javascript"></script>
+  <script src="./scripts/superfish.js" type="text/javascript"></script>
+  <link rel="stylesheet" type="text/css" href="style/superfish.css" />  <script src="./scripts/narrow.js" type="text/javascript"></script>
+  <link rel="stylesheet" type="text/css" href="style/narrow.css" />
+  <!--[if IE]>
+<meta name="MSSmartTagsPreventParsing" content="true">
+<meta http-equiv="imagetoolbar" content="no">
+<![endif]-->
+<!--[if lt IE 7]>
+<link rel="stylesheet" type="text/css" href="style/style_ie6.css">
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="style/style_ie7.css">
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" href="style/style_ie8.css">
+<![endif]-->
+</head>
+<body class="" onload="CheckEmptyAndLoadList();">
+ <div class="header" id="qtdocheader">
+    <div class="content"> 
+    <div id="nav-logo">
+      <a href="index.html">Home</a></div>
+		<div id="narrowsearch"><form onsubmit="return false;" action="" id="qtdocsearch">
+		<fieldset>
+		<input type="text" value="" id="pageType2" name="searchstring"/>
+		 </fieldset>
+		</form></div>
+    <div id="nav-topright">
+      <ul>
+      </ul>
+    </div>
+    <div id="shortCut">
+      <ul>
+        <li class="shortCut-topleft-inactive"><span><a href="index.html">Home</a></span></li>
+        <li class="shortCut-topleft-inactive"><span><a href="classes.html">All&nbsp;Classes</a></span></li>
+        <li class="shortCut-topleft-inactive"><span><a href="overviews.html">Overviews</a></span></li>
+      </ul>
+</div> <ul class="sf-menu sf-js-enabled sf-shadow" id="narrowmenu"> 
+		 <li><a href="#">API Lookup</a> 
+			 <ul id="topmenuLook"> 
+			   <li><a href="qtitan.html">Qtitan Namespace</a></li> 
+			   <li><a href="classes.html">Class index</a></li> 
+ 			  <li><a href="qtitan.html#functions">Function index</a></li> 
+			   </ul> 
+		 </li> 
+ </ul> 
+    </div>
+  </div>
+  <div class="wrapper">
+    <div class="hd">
+      <span></span>
+    </div>
+    <div class="bd group">
+      <div class="sidebar">
+        <div class="searchlabel">
+          Search index:</div>
+        <div class="search">
+          <form id="qtdocsearch" action="" onsubmit="return false;">
+            <fieldset>
+              <input type="text" name="searchstring" id="pageType" value="" />
+            </fieldset>
+          </form>
+        </div>
+        <div class="box first bottombar" id="lookup">
+          <h2 title="API Lookup"><span></span>
+            API Lookup</h2>
+          <div  id="list001" class="list">
+          <ul id="ul001" >
+              <li class="defaultLink"><a href="qtitan.html">Qtitan Namespace</a></li>
+              <li class="defaultLink"><a href="classes.html">Class index</a></li>
+              <li class="defaultLink"><a href="qtitan.html#functions">Function index</a></li>
+            </ul> 
+          </div>
+        </div>
+      </div>
+      <div class="wrap">
+        <div class="toolbar">
+          <div class="breadcrumb toolblock">
+            <ul>
+              <li class="first"><a href="index.html">Home</a></li>
+              <!--  Bread crumbs goes here -->
+              <li>QtitanRibbon quick start guide</li>            </ul>
+          </div>
+          <div class="toolbuttons toolblock">
+            <ul>
+              <li id="smallA" class="t_button">A</li>
+              <li id="medA" class="t_button active">A</li>
+              <li id="bigA" class="t_button">A</li>
+              <li id="print" class="t_button"><a href="javascript:this.print();">
+                <span>Print</span></a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="content">
+<h1 class="title">QtitanRibbon quick start guide</h1>
+<span class="subtitle"></span>
+<!-- $$$qtitanribbonquickstart.html-description -->
+<div class="descr"> <a name="details"></a>
+<a name="quick-start-guide"></a><p>We did our best to make the process of installing and using QtitanRibbon for Qt/C++ as easy and hassle-free as at all possible. For creation of this tutorial we use: OS Windows 8 64 bit, Qt 5.2&#x2e;0 (for Windows 32 bit), QtCreator 3.0&#x2e;0 (for Mingw) and QtitanRibbon 3.2 (for Mingw). Below is a description of several simple steps you need to take to start using of QtitanRibbon in your own Qt/C++ application:</p>
+<ul>
+<li>Download and install QtitanRibbon for QtCreator (mingw) from this page - <a href="http://www.devmachines.com/qtitanribbon-overview.html">http://www.devmachines.com/qtitanribbon-overview.html</a> . In our case install folder is &quot;c:<b class="redFont"><code>\projects</code></b><b class="redFont"><code>\QtitanRibbon3</code></b>.2.0_mingw&quot;</li>
+<li>Start QtCreator and open &lt;QtitanRibbon Install Folder&gt;/qtitanribbon.pro via main menu. QtCreator will allow to configure the project. See screenshot 1. Press &quot;Configure Project&quot; button.<p class="centerAlign"><img src="images/qtitanribbon_quickstart_pic1.png" /></p></li>
+<li>After configuring you will see some errors (such as &quot;cannot read /src/shared/qtitanribbon.pri: No such file or directory&quot;). It is normal and not a problem on this step. See screenshot 2.<p class="centerAlign"><img src="images/qtitanribbon_quickstart_pic2.png" /></p></li>
+<li>Switch to the Release mode. QtitanRibbon demo build does not contain any debug libraries so it is necessarily to continue. If you have a purchased license this step is entirely optional. See screenshot 3.<p class="centerAlign"><img src="images/qtitanribbon_quickstart_pic3.png" /></p></li>
+<li>Open &quot;Projects&quot; tab at the left of QtCreator view and scroll down to the Build Environment. Click &quot;Details&quot; button and add QTITANDIR variable to the environment with &lt;QtitanRibbon Install Folder&gt; value. In our case it is QTITANDIR=c:<b class="redFont"><code>\projects</code></b><b class="redFont"><code>\QtitanRibbon3</code></b>.2.0_mingw. See screenshot 4.<p class="centerAlign"><img src="images/qtitanribbon_quickstart_pic4.png" /></p></li>
+<li>Run &quot;qmake&quot; command from the main menu. See screenshot 5.<p class="centerAlign"><img src="images/qtitanribbon_quickstart_pic5.png" /></p></li>
+<li>If all is Ok, qmake will be completed without any errors. See screenshot 6.<p class="centerAlign"><img src="images/qtitanribbon_quickstart_pic6.png" /></p></li>
+<li>Run &quot;Build All&quot; command from the main menu. See screenshot 7.<p class="centerAlign"><img src="images/qtitanribbon_quickstart_pic7.png" /></p></li>
+<li>If all is Ok, the build will be completed and you can start QtitanRibbon demo expample. See screenshot 8.<p class="centerAlign"><img src="images/qtitanribbon_quickstart_pic8.png" /></p></li>
+<li>Press Ctrl+R to start QtitanRibbon demo expample. See screenshot 9.<p class="centerAlign"><img src="images/qtitanribbon_quickstart_pic9.png" /></p></li>
+</ul>
+<p>We have considered an example of how to configure, compile and run a standart demo example from QtitanRibbon installation. Next, consider an example of creating an application containing the Ribbon Bar from scratch.</p>
+<ul>
+<li>Create Qt Widgets Application with name &quot;qtitanribbon_application&quot; from the QtCreator's main menu. See screenshot 10.<p class="centerAlign"><img src="images/qtitanribbon_quickstart_pic10.png" /></p></li>
+<li>Press &quot;Next&quot; to follow next step of creation wizard. See screenshot 11.<p class="centerAlign"><img src="images/qtitanribbon_quickstart_pic11.png" /></p></li>
+<li>Press &quot;Next&quot;. See screenshot 12.<p class="centerAlign"><img src="images/qtitanribbon_quickstart_pic12.png" /></p></li>
+<li>Press &quot;Finish&quot;. See screenshot 13.<p class="centerAlign"><img src="images/qtitanribbon_quickstart_pic13.png" /></p></li>
+<li>Empty Qt application has been created. See screenshot 14.<p class="centerAlign"><img src="images/qtitanribbon_quickstart_pic14.png" /></p></li>
+<li>Switch to the Release mode. QtitanRibbon demo build does not contain any debug libraries so it is necessarily to continue. If you have a purchased license this step is entirely optional. See screenshot 15.<p class="centerAlign"><img src="images/qtitanribbon_quickstart_pic15.png" /></p></li>
+<li>Open &quot;qtitanribbon_application.pro&quot; file and add include($$(QTITANDIR)/src/shared/qtitanribbon.pri) to it.<pre class="highlightedCode brush: cpp">    QT       += core gui
+
+    greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
+
+    TARGET = qtitanribbon_application
+    TEMPLATE = app
+
+
+    SOURCES += main.cpp\
+            mainwindow.cpp
+
+    HEADERS  += mainwindow.h
+
+    FORMS    += mainwindow.ui
+
+    include($$(QTITANDIR)/src/shared/qtitanribbon.pri)</pre>
+<p>See screenshot 16.</p>
+<p class="centerAlign"><img src="images/qtitanribbon_quickstart_pic16.png" /></p></li>
+<li>Open &quot;Projects&quot; tab at the left of QtCreator view and scroll down to the Build Environment. Click &quot;Details&quot; button and add QTITANDIR variable to the environment with &lt;QtitanRibbon Install Folder&gt; value. In our case it is QTITANDIR=c:<b class="redFont"><code>\projects</code></b><b class="redFont"><code>\QtitanRibbon3</code></b>.2.0_mingw. See screenshot 17.<p class="centerAlign"><img src="images/qtitanribbon_quickstart_pic17.png" /></p></li>
+<li>Run &quot;qmake&quot; command from the main menu. See screenshot 18.<p class="centerAlign"><img src="images/qtitanribbon_quickstart_pic18.png" /></p></li>
+<li>If all is Ok, qmake will be completed without any errors. See screenshot 19.<p class="centerAlign"><img src="images/qtitanribbon_quickstart_pic19.png" /></p></li>
+<li>Open &quot;main.cpp&quot; and add some code to add RibbonStyle to the application.<pre class="highlightedCode brush: cpp">    #include &quot;mainwindow.h&quot;
+    #include &lt;QApplication&gt;
+    #include &lt;QtitanRibbon.h&gt;
+
+    int main(int argc, char *argv[])
+    {
+        QApplication a(argc, argv);
+        a.setStyle(new Qtitan::RibbonStyle());
+        MainWindow w;
+        w.show();
+
+        return a.exec();
+    }</pre>
+<p>See screenshot 20.</p>
+<p class="centerAlign"><img src="images/qtitanribbon_quickstart_pic20.png" /></p></li>
+<li>Rebuild project &quot;qtitanribbon_application&quot; from the main menu. See screenshot 21.<p class="centerAlign"><img src="images/qtitanribbon_quickstart_pic21.png" /></p></li>
+<li>If all is Ok, the build will be completed without any issue you can start &quot;qtitanribbon_application&quot;. See screenshot 22.<p class="centerAlign"><img src="images/qtitanribbon_quickstart_pic22.png" /></p></li>
+<li>Press Ctrl+R to start &quot;qtitanribbon_application&quot;. See screenshot 23.<p class="centerAlign"><img src="images/qtitanribbon_quickstart_pic23.png" /></p></li>
+</ul>
+<p>We hope these examples will help you to quickly start using the component in your application. In any case, if you have any questions or problems please let us know by this mailbox - <a href="mailto:support@devmachines.com">support@devmachines.com</a>.</p>
+</div>
+<!-- @@@qtitanribbonquickstart.html -->
+        <!-- /div -->
+        <div class="feedback t_button">
+          </div>
+      </div>
+    </div>
+    <div class="ft">
+      <span></span>
+    </div>
+  </div> 
+  <div class="footer">
+    <p>
+      <acronym title="Copyright">&copy;</acronym> 2009-2014 Developer Machines<br><br>      Qt and their respective logos are trademarks of Digia Corporation 
+      in Finland and/or other countries worldwide.</p>
+    <p>
+      All other trademarks are property of their respective owners. <a title="Privacy Policy"
+        href="http://www.devmachines.com/company/privacy-policy.html">Privacy Policy</a></p>
+  </div>
+  <div id="blurpage">
+  </div>
+  <!--/div -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17002018-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+  <script src="scripts/functions.js" type="text/javascript"></script>
+  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17002018-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  </script>
+</body>
+</html>
